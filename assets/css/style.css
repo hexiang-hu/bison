@@ -1,0 +1,115 @@
+.headline {
+  text-align:     center;
+  vertical-align: middle;
+  font-weight:    500;
+  font-size:      30px;
+}
+.author,
+.profile-name {
+  font-size:    12pt;
+}
+.profile-img {
+  margin:         0px auto;
+  width:          128px;
+  height:          128px;
+  border-width:   4px;
+  border-style:   solid;
+  border-color:   black;
+  border-radius:  50%;
+}
+.profile {
+  width: -webkit-calc(33%);
+  width:         calc(33%);
+  float:         left;
+  text-align:    center;
+  margin-top:    30px;
+  margin-bottom: 30px;
+}
+.affliation {
+  width: -webkit-calc(50% - 10px);
+  width:         calc(50% - 10px);
+  float:         left;
+  text-align:    center;
+  padding:       5px;
+  margin-top:    30px;
+  margin-bottom: 30px;
+}
+.resource {
+  font-weight: 500;
+  font-size:   12pt;
+}
+.item-list {
+  width: -webkit-calc(100% - (30px / 2));
+  width:         calc(100% - (30px / 2));  
+  margin-top:    15px;
+  display:       inline-block;
+}
+.affliation-img {
+  height: 100px;
+}
+.site-title {
+  display:  inline;
+}
+.site-block {
+  display:  inline;
+}
+.site-logo {
+  height: 20px;
+  display:  inline;
+}
+.sub-headline {
+  font-size:   24px;
+  font-weight: 400;
+}
+.sub-content {
+  margin-top:  10px;
+  font-size:   18px;
+}
+
+.text-box {
+  background-color:  #e8e8e8;
+  margin: 10px 10px 10px 10px;
+  padding: 10px 10px 10px 20px;
+  border-radius: 4px;
+  color: 002336;
+}
+
+.acknowledgement {
+  margin-top:30px;
+  font-size: 10pt;
+}
+
+.acknowledgement {
+  margin-top:5px;
+}
+
+.text-center {
+  text-align:     center;
+  vertical-align: middle;
+}
+.thumbnail {
+  border: solid;
+  border-width: 1px;
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.teaser {
+  display: inline;
+  border: solid;
+  width: -webkit-calc(50% - 30px);
+  width:         calc(50% - 30px);
+  border-width: 2px;
+  padding: 5px;
+  margin-top: 30px;
+  margin-left:  5px;
+  margin-right: 5px;
+  margin-bottom: 30px;
+}
+.content {
+  margin-top: 30px;
+}
+.footnote {
+  font-size:  7pt;
+  font-color: gray;
+  float: right;
+}
