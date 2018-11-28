@@ -1,0 +1,39 @@
+{
+  "site_author": "Heiang Hu",
+  "site_title": "Binary Image Selection (BISON) Project",
+  "site_abbrev": "BISON",
+  "site_description": "",
+  "root_site_url": "/",
+  "main_title": "Binary Image Selection (BISON):",
+  "sub_title": "Interpretable Evaluation of Visual Grounding",
+  "authors": [
+      { "name": "Hexiang Hu",
+        "url": "http://hexiang-hu.github.io",
+        "headshot_url": "assets/images/hexiang.jpg"},
+      { "name": "Ishan Misra",
+        "url": "http://imisra.github.io/",
+        "headshot_url": "assets/images/ishan.jpg"},
+      { "name": "Laurens van der Maaten",
+        "url": "http://lvdmaaten.github.io",
+        "headshot_url": "assets/images/laurens.jpg"}
+    ],
+  "conference": "arXiv preprint",
+  "abstract": "Providing systems the ability to relate linguistic and visual content is one of the hallmarks of computer vision. Tasks such as image captioning and retrieval were designed to test this ability, but come with complex evaluation measures that gauge various other abilities and biases simultaneously. This paper presents an alternative evaluation task for visual-grounding systems: given a caption the system is asked to select the image that best matches the caption from a pair of semantically similar images. The system's accuracy on this Binary Image SelectiON (BISON) task is not only interpretable, but also measures the ability to relate fine-grained text content in the caption to visual content in the images. We gathered a BISON dataset that complements the COCO Captions dataset and used this dataset in auxiliary evaluations of captioning and caption-based retrieval systems. While captioning measures suggest visual-grounding systems outperform humans, BISON shows that these systems are still far away from human performance.",
+  "resources": [
+    { "name": "Validation Data (Coming Soon)", "url": ""},
+    { "name": "Evaluation Code (Coming Soon)", "url": ""}
+  ],
+  "affliations": [
+    { "url": "https://research.fb.com/category/facebook-ai-research/", "img_url": "assets/images/fair.png" },
+    { "url": "https://viterbischool.usc.edu/", "img_url": "assets/images/usc-viterbi.png" }
+  ],
+  "teasers": [ "assets/images/teaser1.jpg", "assets/images/teaser2.jpg"],
+  "root_site_logo": "assets/images/bison.png",
+  "google_analytics": "UA-60071442-3",
+  "credit": "Bison by Jinhwan Kim from the Noun Project",
+  "thumbnail": "assets/images/thumbnail.jpg",
+  "arXiv": { "abstract": "", "pdf": ""},
+  "bibtex": "<strong>@article{</strong>hexiang2018bison,<br/>&nbsp&nbsp&nbsp&nbsp title={{Binary Image Selection (BISON): Interpretable Evaluation of Visual Grounding}},<br/> &nbsp&nbsp&nbsp&nbsp author={Hu, Hexiang and Misra, Ishan and van der Maaten, Laurens},<br/> &nbsp&nbsp&nbsp&nbsp journal={arXiv preprint arXiv:xxxx.xxxx},</br> &nbsp&nbsp&nbsp&nbsp year={2018}</br><strong>}</strong>",
+  "acknowledgement": "This work was performed during Hexiang Hu's summer internship at <a href='https://research.fb.com/category/facebook-ai-research/'>Facebook AI Research.</a>",
+  "contact": "Contact <a href='mailto:hexiang.frank'>Hexiang Hu</a> for quetions and comments."
+}
